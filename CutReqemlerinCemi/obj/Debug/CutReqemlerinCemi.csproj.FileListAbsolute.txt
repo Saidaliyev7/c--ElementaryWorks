@@ -1,0 +1,7 @@
+C:\Users\Saidinko\source\repos\CutReqemlerinCemi\CutReqemlerinCemi\bin\Debug\CutReqemlerinCemi.exe.config
+C:\Users\Saidinko\source\repos\CutReqemlerinCemi\CutReqemlerinCemi\bin\Debug\CutReqemlerinCemi.exe
+C:\Users\Saidinko\source\repos\CutReqemlerinCemi\CutReqemlerinCemi\bin\Debug\CutReqemlerinCemi.pdb
+C:\Users\Saidinko\source\repos\CutReqemlerinCemi\CutReqemlerinCemi\obj\Debug\CutReqemlerinCemi.csprojResolveAssemblyReference.cache
+C:\Users\Saidinko\source\repos\CutReqemlerinCemi\CutReqemlerinCemi\obj\Debug\CutReqemlerinCemi.csproj.CoreCompileInputs.cache
+C:\Users\Saidinko\source\repos\CutReqemlerinCemi\CutReqemlerinCemi\obj\Debug\CutReqemlerinCemi.exe
+C:\Users\Saidinko\source\repos\CutReqemlerinCemi\CutReqemlerinCemi\obj\Debug\CutReqemlerinCemi.pdb
